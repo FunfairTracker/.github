@@ -1,2 +1,2 @@
 # Funfair Tracker
-## funfairtracker.com
+funfairtracker.com
